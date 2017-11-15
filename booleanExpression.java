@@ -1,4 +1,3 @@
-package program1;
 import java.util.Scanner;
 
 import javax.script.ScriptEngine;
